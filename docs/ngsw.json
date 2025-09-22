@@ -1,0 +1,121 @@
+{
+  "configVersion": 1,
+  "timestamp": 1758579906678,
+  "index": "/pwaexamen/index.csr.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/pwaexamen/favicon.ico",
+        "/pwaexamen/index.csr.html",
+        "/pwaexamen/index.html",
+        "/pwaexamen/main-BVFYP3MD.js",
+        "/pwaexamen/manifest.webmanifest",
+        "/pwaexamen/styles-5INURTSO.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/pwaexamen/assets/img/about/1.jpg",
+        "/pwaexamen/assets/img/about/2.jpg",
+        "/pwaexamen/assets/img/about/3.jpg",
+        "/pwaexamen/assets/img/about/4.jpg",
+        "/pwaexamen/assets/img/close-icon.svg",
+        "/pwaexamen/assets/img/header-bg.jpg",
+        "/pwaexamen/assets/img/logos/facebook.svg",
+        "/pwaexamen/assets/img/logos/google.svg",
+        "/pwaexamen/assets/img/logos/ibm.svg",
+        "/pwaexamen/assets/img/logos/microsoft.svg",
+        "/pwaexamen/assets/img/map-image.png",
+        "/pwaexamen/assets/img/navbar-logo.svg",
+        "/pwaexamen/assets/img/portfolio/1.jpg",
+        "/pwaexamen/assets/img/portfolio/2.jpg",
+        "/pwaexamen/assets/img/portfolio/3.jpg",
+        "/pwaexamen/assets/img/portfolio/4.jpg",
+        "/pwaexamen/assets/img/portfolio/5.jpg",
+        "/pwaexamen/assets/img/portfolio/6.jpg",
+        "/pwaexamen/assets/img/team/1.jpg",
+        "/pwaexamen/assets/img/team/2.jpg",
+        "/pwaexamen/assets/img/team/3.jpg",
+        "/pwaexamen/icons/icon-128x128.png",
+        "/pwaexamen/icons/icon-144x144.png",
+        "/pwaexamen/icons/icon-152x152.png",
+        "/pwaexamen/icons/icon-192x192.png",
+        "/pwaexamen/icons/icon-384x384.png",
+        "/pwaexamen/icons/icon-512x512.png",
+        "/pwaexamen/icons/icon-72x72.png",
+        "/pwaexamen/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/pwaexamen/assets/img/about/1.jpg": "3dfa368ccad0b5eb21cd9b4da3a3df4cce482a1e",
+    "/pwaexamen/assets/img/about/2.jpg": "4257e63d075e24e1124c0fbad2b0b2222d6c18ff",
+    "/pwaexamen/assets/img/about/3.jpg": "a80d6cf10a430a88f8835bd288119dcfdee1f962",
+    "/pwaexamen/assets/img/about/4.jpg": "d9b4204584b226f7d5cfadab88c23ed1aa6f5dda",
+    "/pwaexamen/assets/img/close-icon.svg": "e54e73161c615fcd9fcedfa300db59591d1b239f",
+    "/pwaexamen/assets/img/header-bg.jpg": "ae033b5ab5f69177cf28f87a3edbedb49490276f",
+    "/pwaexamen/assets/img/logos/facebook.svg": "b6cfc62b8d94cde2c791dc64eae321a9094aa0f3",
+    "/pwaexamen/assets/img/logos/google.svg": "7b43896379e49602e4eb1261c104914edc47476d",
+    "/pwaexamen/assets/img/logos/ibm.svg": "fb41abfb9dbfb22134d34115ed817dd8e1983d81",
+    "/pwaexamen/assets/img/logos/microsoft.svg": "67401036ba89b17f5e1e0b57e5f4f32a07391511",
+    "/pwaexamen/assets/img/map-image.png": "14192e7ab5b5395ac5ba0857b91aef8754ee70fb",
+    "/pwaexamen/assets/img/navbar-logo.svg": "e581f89f3c5cd9ef18f07d3b226b2572435f4208",
+    "/pwaexamen/assets/img/portfolio/1.jpg": "e28be7913af7b6d581d3034d42f8931ed51b5470",
+    "/pwaexamen/assets/img/portfolio/2.jpg": "e017fd3ba70470bb4111529323683cca0b82f4e1",
+    "/pwaexamen/assets/img/portfolio/3.jpg": "089147e58a2511e9dd9ee8520567d5736f46ccd0",
+    "/pwaexamen/assets/img/portfolio/4.jpg": "118a6f6fd7afb523a6822cf9416e30fb0c21a790",
+    "/pwaexamen/assets/img/portfolio/5.jpg": "c347922d2769381d05c28ee923e078fc535ad3af",
+    "/pwaexamen/assets/img/portfolio/6.jpg": "8ece9cabe2584646244ca7b1d72601679a01c417",
+    "/pwaexamen/assets/img/team/1.jpg": "713dc0e4b4efa05afb8f038fadb04e875bafe77c",
+    "/pwaexamen/assets/img/team/2.jpg": "687652ca4c569564c530cc9fff4ee019e79925b1",
+    "/pwaexamen/assets/img/team/3.jpg": "4beea948ecaa51f56d6c49806f8527380c6bb383",
+    "/pwaexamen/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/pwaexamen/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/pwaexamen/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/pwaexamen/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/pwaexamen/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/pwaexamen/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/pwaexamen/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/pwaexamen/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/pwaexamen/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/pwaexamen/index.csr.html": "08b2147a59172b8a4a9460dc59f15e2a338109ae",
+    "/pwaexamen/index.html": "b6af50f01c355982469c5c545dd55c0766ab8951",
+    "/pwaexamen/main-BVFYP3MD.js": "cc93d2d6b4b9b46253dcab780c975efae0e856ab",
+    "/pwaexamen/manifest.webmanifest": "9170e4bd2d16fbbf79da85ace49fbd7fb7a60e18",
+    "/pwaexamen/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
