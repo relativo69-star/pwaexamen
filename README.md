@@ -1,5 +1,7 @@
 # framework Bootstrap
-
+# template usado: Agency - StartBootstrap (MIT).
+# fuente: https://startbootstrap.com/theme/agency
+# Licencia: MIT (ver LICENSE del template)
 # Pwaexamen
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.1.
